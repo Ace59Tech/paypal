@@ -4,3 +4,4 @@ landmark
 amanda
 fujy
 jen
+manager
